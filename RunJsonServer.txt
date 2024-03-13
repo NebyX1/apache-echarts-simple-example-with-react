@@ -1,0 +1,6 @@
+Para usar Json Server de la siguiente forma se debe tener instalado este paquete de forma global:
+    Paso 1: Instalar Globalmente Json Server
+        >npm install -g json-server
+    
+    Paso 2: Correr Json Server en una nueva consola
+        >json-server --watch data/crimeData.json --port 3001

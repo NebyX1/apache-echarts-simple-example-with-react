@@ -1,0 +1,27 @@
+{
+  "crimeData": [
+    { "year": 2000, "Asesinatos cada 100mil habitantes": 6.23 },
+    { "year": 2001, "Asesinatos cada 100mil habitantes": 6.54 },
+    { "year": 2002, "Asesinatos cada 100mil habitantes": 6.85 },
+    { "year": 2003, "Asesinatos cada 100mil habitantes": 7.16 },
+    { "year": 2004, "Asesinatos cada 100mil habitantes": 7.47 },
+    { "year": 2005, "Asesinatos cada 100mil habitantes": 7.78 },
+    { "year": 2006, "Asesinatos cada 100mil habitantes": 8.09 },
+    { "year": 2007, "Asesinatos cada 100mil habitantes": 8.4 },
+    { "year": 2008, "Asesinatos cada 100mil habitantes": 8.71 },
+    { "year": 2009, "Asesinatos cada 100mil habitantes": 9.02 },
+    { "year": 2010, "Asesinatos cada 100mil habitantes": 9.33 },
+    { "year": 2011, "Asesinatos cada 100mil habitantes": 9.64 },
+    { "year": 2012, "Asesinatos cada 100mil habitantes": 9.95 },
+    { "year": 2013, "Asesinatos cada 100mil habitantes": 10.26 },
+    { "year": 2014, "Asesinatos cada 100mil habitantes": 10.57 },
+    { "year": 2015, "Asesinatos cada 100mil habitantes": 10.88 },
+    { "year": 2016, "Asesinatos cada 100mil habitantes": 11.19 },
+    { "year": 2017, "Asesinatos cada 100mil habitantes": 11.5 },
+    { "year": 2018, "Asesinatos cada 100mil habitantes": 11.81 },
+    { "year": 2019, "Asesinatos cada 100mil habitantes": 12.12 },
+    { "year": 2020, "Asesinatos cada 100mil habitantes": 12.43 },
+    { "year": 2021, "Asesinatos cada 100mil habitantes": 12.74 },
+    { "year": 2022, "Asesinatos cada 100mil habitantes": 13.05 }
+  ]
+}
